@@ -11,10 +11,9 @@ import {
   Subtitle,
   ImgWrap,
   Img,
-  alt,
 } from "./InfoElements";
 
-const InfoSection = ({ lightBg, id, imgStart, topLine, img, alt, titles }) => {
+const InfoSection = ({ lightBg, id, topLine, alt, titles }) => {
   return (
     <InfoContainer lightBg={lightBg} id={id}>
       <InfoWrapper>
@@ -22,7 +21,7 @@ const InfoSection = ({ lightBg, id, imgStart, topLine, img, alt, titles }) => {
           <InfoRow imgStart={title.imgStart}>
             <Column1>
               <TextWrapper key={index}>
-                {index == 0 ? <TopLine>{topLine}</TopLine> : null}
+                {index === 0 ? <TopLine>{topLine}</TopLine> : null}
                 <Heading lightText={title.lightText}>{title.headline}</Heading>
                 <Subtitle darkText={title.darkText}>
                   {title.description}

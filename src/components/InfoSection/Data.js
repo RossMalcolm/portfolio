@@ -1,5 +1,3 @@
-import { computeHeadingLevel } from "@testing-library/dom";
-
 export const homeObjOne = {
   id: "about",
   lightBg: false,
@@ -21,7 +19,7 @@ export const homeObjOne = {
 };
 
 export const workObj = {
-  id: "Work Experiences",
+  id: "work",
   lightBg: true,
   topLine: "Work Experiences",
   titles: [
