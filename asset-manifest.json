@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2e347032.chunk.css",
-    "main.js": "/portfolio/static/js/main.a27bb098.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a27bb098.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
-    "static/js/2.84fbad8a.chunk.js": "/portfolio/static/js/2.84fbad8a.chunk.js",
-    "static/js/2.84fbad8a.chunk.js.map": "/portfolio/static/js/2.84fbad8a.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.2e347032.chunk.css.map": "/portfolio/static/css/main.2e347032.chunk.css.map",
-    "static/js/2.84fbad8a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.84fbad8a.chunk.js.LICENSE.txt",
-    "static/media/LaurierSign2.jpeg": "/portfolio/static/media/LaurierSign2.c701729b.jpeg",
-    "static/media/LinkedInPicture.jpg": "/portfolio/static/media/LinkedInPicture.71c6850e.jpg",
-    "static/media/ZehrsMarkets.jpeg": "/portfolio/static/media/ZehrsMarkets.ea2125e2.jpeg",
-    "static/media/laurierSign.jpeg": "/portfolio/static/media/laurierSign.613eb24d.jpeg",
-    "static/media/svg-fans.ae54a73e.svg": "/portfolio/static/media/svg-fans.ae54a73e.svg",
-    "static/media/svg-message.5c1d971f.svg": "/portfolio/static/media/svg-message.5c1d971f.svg",
-    "static/media/svg-youtube.adf6ffcc.svg": "/portfolio/static/media/svg-youtube.adf6ffcc.svg",
-    "static/media/video.41cab179.mp4": "/portfolio/static/media/video.41cab179.mp4"
+    "main.css": "/static/css/main.2e347032.chunk.css",
+    "main.js": "/static/js/main.403b473a.chunk.js",
+    "main.js.map": "/static/js/main.403b473a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b83279d6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b83279d6.js.map",
+    "static/js/2.e5d3064f.chunk.js": "/static/js/2.e5d3064f.chunk.js",
+    "static/js/2.e5d3064f.chunk.js.map": "/static/js/2.e5d3064f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2e347032.chunk.css.map": "/static/css/main.2e347032.chunk.css.map",
+    "static/js/2.e5d3064f.chunk.js.LICENSE.txt": "/static/js/2.e5d3064f.chunk.js.LICENSE.txt",
+    "static/media/LaurierSign2.jpeg": "/static/media/LaurierSign2.c701729b.jpeg",
+    "static/media/LinkedInPicture.jpg": "/static/media/LinkedInPicture.71c6850e.jpg",
+    "static/media/ZehrsMarkets.jpeg": "/static/media/ZehrsMarkets.ea2125e2.jpeg",
+    "static/media/laurierSign.jpeg": "/static/media/laurierSign.613eb24d.jpeg",
+    "static/media/svg-fans.ae54a73e.svg": "/static/media/svg-fans.ae54a73e.svg",
+    "static/media/svg-message.5c1d971f.svg": "/static/media/svg-message.5c1d971f.svg",
+    "static/media/svg-youtube.adf6ffcc.svg": "/static/media/svg-youtube.adf6ffcc.svg",
+    "static/media/video.41cab179.mp4": "/static/media/video.41cab179.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.76232b81.js",
-    "static/js/2.84fbad8a.chunk.js",
+    "static/js/runtime-main.b83279d6.js",
+    "static/js/2.e5d3064f.chunk.js",
     "static/css/main.2e347032.chunk.css",
-    "static/js/main.a27bb098.chunk.js"
+    "static/js/main.403b473a.chunk.js"
   ]
 }
