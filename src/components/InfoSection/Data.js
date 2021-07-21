@@ -4,9 +4,10 @@ export const homeObjOne = {
   topLine: "About",
   titles: [
     {
-      headline: "I am a Recent Laurier Grad",
+      headline:
+        "I am a Recent Computer Science Graduate from Wilfrid Laurier University ",
       description:
-        "I am currently looking for work as a web developer or FullStack Developer",
+        "I am a highly motivated software developer currently looking for work in web development. \n\nThroughout my degree I learned a wide variety of programming languages but I always felt the most fulfilled from making clean and responsive websites.",
       lightText: true,
       darkText: false,
       imgStart: false,
@@ -26,7 +27,7 @@ export const workObj = {
     {
       headline: "Business System Analyst",
       description:
-        "Business System Analyst Co-op at Wilfrid Laurier University",
+        "- Extracted data to test statistical significance and identify meaningful trends in admissions \n\n- Documented business needs and research new functionality of business systems and tools \n\n- Developed apps and flows for automation within the Microsoft stack",
       lightText: false,
       darkText: true,
       imgStart: true,
@@ -35,7 +36,8 @@ export const workObj = {
     },
     {
       headline: "Data Analyst",
-      description: "Data Analyst Co-op at Wilfrid Laurier University",
+      description:
+        "- Automated Laurier’s residence availability process by writing queries in SQL \n\n- Condensed all applications, offers, and acceptances from previous years into a data summary \n\n- Coded Excel macros to simplify campus tour booking and high school visiting processes",
       lightText: false,
       darkText: true,
       imgStart: false,
@@ -44,7 +46,8 @@ export const workObj = {
     },
     {
       headline: "Produce Clerk",
-      description: "Produce Clerk at Zehrs Markets",
+      description:
+        "- Worked and trained employees in multiple departments to complete their tasks efficiently \n\n- Collaborated an efficient team of employees to divide responsibilities throughout the store",
       lightText: false,
       darkText: true,
       imgStart: true,

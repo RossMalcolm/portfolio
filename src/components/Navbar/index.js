@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FaBars } from "react-icons/fa";
+import { animateScroll as scroll } from "react-scroll";
 import {
   Nav,
   NavbarContainer,
@@ -27,33 +28,61 @@ const Navbar = ({ toggle }) => {
     window.addEventListener("scroll", changeNav);
   }, []);
 
+  const toggleHome = () => {
+    scroll.scrollToTop();
+  };
+
   return (
     <>
       <Nav scrollNav={scrollNav}>
         <NavbarContainer>
-          <NavLogo to="/">Ross Malcolm</NavLogo>
+          <NavLogo onClick={toggleHome}>Ross Malcolm</NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>
           <NavMenu>
             <NavItem>
-              <NavLinks to="about" offset={-80}>
+              <NavLinks
+                to="about"
+                smooth={true}
+                duration={500}
+                spy={true}
+                exact="true"
+                offset={-80}
+                activeClass="active"
+              >
                 About Me
               </NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="work" offset={-80}>
+              <NavLinks
+                to="work"
+                smooth={true}
+                duration={500}
+                spy={true}
+                exact="true"
+                offset={-80}
+                activeClass="active"
+              >
                 Work Experience
               </NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="projects" offset={-80}>
+              <NavLinks
+                to="projects"
+                smooth={true}
+                duration={500}
+                spy={true}
+                exact="true"
+                offset={-80}
+                activeClass="active"
+              >
                 Projects
               </NavLinks>
             </NavItem>
           </NavMenu>
           <NavBtn>
-            <NavBtnLink>Contact Me</NavBtnLink>
+            <NavBtnLink to="/Contact">Contact Me</NavBtnLink>
           </NavBtn>
         </NavbarContainer>
       </Nav>
