@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2e347032.chunk.css",
-    "main.js": "/portfolio/static/js/main.a1f8f4dd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a1f8f4dd.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d56c414b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d56c414b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
-    "static/js/2.52ea8e66.chunk.js": "/portfolio/static/js/2.52ea8e66.chunk.js",
-    "static/js/2.52ea8e66.chunk.js.map": "/portfolio/static/js/2.52ea8e66.chunk.js.map",
+    "static/js/2.4188c0e6.chunk.js": "/portfolio/static/js/2.4188c0e6.chunk.js",
+    "static/js/2.4188c0e6.chunk.js.map": "/portfolio/static/js/2.4188c0e6.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.2e347032.chunk.css.map": "/portfolio/static/css/main.2e347032.chunk.css.map",
-    "static/js/2.52ea8e66.chunk.js.LICENSE.txt": "/portfolio/static/js/2.52ea8e66.chunk.js.LICENSE.txt",
+    "static/js/2.4188c0e6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4188c0e6.chunk.js.LICENSE.txt",
     "static/media/LaurierSign2.jpeg": "/portfolio/static/media/LaurierSign2.c701729b.jpeg",
     "static/media/LinkedInPicture.jpg": "/portfolio/static/media/LinkedInPicture.71c6850e.jpg",
     "static/media/ZehrsMarkets.jpeg": "/portfolio/static/media/ZehrsMarkets.ea2125e2.jpeg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.76232b81.js",
-    "static/js/2.52ea8e66.chunk.js",
+    "static/js/2.4188c0e6.chunk.js",
     "static/css/main.2e347032.chunk.css",
-    "static/js/main.a1f8f4dd.chunk.js"
+    "static/js/main.d56c414b.chunk.js"
   ]
 }
